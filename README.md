@@ -1,9 +1,9 @@
 <div align="center">
-  <h1> Consistency and Unified Semantic Regularization for Generalized Category Discovery </h1>
+  <h1> CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery </h1>
 </div>
 
 <div align="center">
-  <h3>Paper ID 10706 </h3>
+  <h3>This paper has been accpeted by ICML2026 </h3>
 </div>
 
 <!-- <p align="center">
